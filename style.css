@@ -157,7 +157,6 @@ font-family: 'PT Serif', serif; */
 
     .img1:hover {
     transform: scale(1.25);
-   
     }
 
     /* style of the images with the texts */
@@ -173,6 +172,7 @@ font-family: 'PT Serif', serif; */
     .txt-gall{
     font-family: 'Lora';
     text-align: justify;    
+    
     }
 
     /* style for the h3 */
